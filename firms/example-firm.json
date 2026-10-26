@@ -1,0 +1,6 @@
+{
+  "name": "Esempio Assicurazioni",
+  "languages": ["it", "en", "de"],
+  "authorised_to_advise": false,
+  "prompt_overlay": "Renewal invitations go out 21 days before the date. If someone asks about renewing, confirm the date from the schedule and escalate — renewal pricing is never yours to discuss."
+}

@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.local
+logs/
+.DS_Store
+
+# Real policy wordings and firm configs are commercial and often licensed.
+policies/*.json
+!policies/_template.json
+!policies/example-home.json
+firms/*.json
+!firms/example-firm.json

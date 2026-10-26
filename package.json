@@ -1,0 +1,9 @@
+{
+  "name": "insurance-enquiry-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Answers insurance enquiries without advising, quoting, binding, or deciding a claim — and never paraphrases a policy term, because what it says is binding on the firm.",
+  "scripts": { "test": "node --test \"src/*.test.js\"", "reply": "node src/cli.js" },
+  "dependencies": { "@anthropic-ai/sdk": "^0.68.0" },
+  "license": "MIT"
+}

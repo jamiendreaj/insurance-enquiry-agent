@@ -1,0 +1,31 @@
+{
+  "_note": "EXAMPLE ONLY — a fictional policy used for the demo and the tests. Not a real product. Replace entirely before any real use.",
+
+  "reference": "HOM-4471",
+  "product": "Home — Buildings & Contents",
+  "status": "In force, renews 14 March",
+
+  "facts": {
+    "annual_premium": "€342",
+    "excess": "€250",
+    "buildings_sum_insured": "€280,000",
+    "contents_sum_insured": "€45,000",
+    "accidental_damage": "Included for buildings, not for contents",
+    "flood_cover": "Not shown on the schedule",
+    "single_item_limit": "€1,500"
+  },
+
+  "sections": [
+    "Section 1 — Buildings",
+    "Section 2 — Contents",
+    "Section 3 — General exclusions",
+    "Section 4 — Claims conditions"
+  ],
+
+  "wording": {
+    "Section 3 — General exclusions": "Loss or damage caused by flood is excluded unless Flood Cover is shown in the schedule.",
+    "Section 1 — Buildings": "Accidental damage to fixed glass and sanitary ware is covered.",
+    "Section 2 — Contents": "Contents are covered against fire, theft and escape of water. No single item is covered for more than the single item limit shown in the schedule.",
+    "Section 4 — Claims conditions": "You must tell us about any incident which may lead to a claim within 30 days."
+  }
+}

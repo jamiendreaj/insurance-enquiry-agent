@@ -1,0 +1,21 @@
+{
+  "_note": "Copy this to policies/<reference>.json. Real documents are gitignored.",
+
+  "reference": "",
+  "product": "",
+  "status": "",
+
+  "facts": {
+    "_comment": "Figures and flags exactly as they appear on the schedule. If it is not here the agent does not know it and will escalate rather than estimate.",
+    "annual_premium": "",
+    "excess": ""
+  },
+
+  "sections": [
+    "Name each section the agent may quote from. It cannot quote what is not listed."
+  ],
+
+  "wording": {
+    "_comment": "VERBATIM text, section by section. This is the only thing the agent is allowed to say a policy says — see LEGAL.md. Do not summarise, do not simplify, do not modernise the language. A paraphrase here becomes a policy term the firm is answerable for."
+  }
+}
